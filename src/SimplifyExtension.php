@@ -1,6 +1,5 @@
 <?php
 /*
- * This file is part of the tinygeo package.
  *
  * (C) ITinance GmbH <https://github.com/itinance/>
  *
