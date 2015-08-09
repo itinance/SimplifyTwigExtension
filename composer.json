@@ -1,0 +1,15 @@
+{
+    "name": "itinance/SimplifyTwigExtension",
+    "authors": [
+        {
+            "name": "hagen huebel",
+            "email": "hhuebel@itinance.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"simplifyTwig\\": "src/"}
+    },
+    "require": {
+        "php": ">=5.4.4"
+    }
+}
